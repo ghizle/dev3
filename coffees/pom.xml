@@ -8,7 +8,7 @@
 		<version>3.2.5</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.souleimen</groupId>
+	<groupId>com.ghizlen</groupId>
 	<artifactId>coffee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>coffees</name>
